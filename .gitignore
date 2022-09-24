@@ -1,0 +1,10 @@
+.idea
+
+**/videos
+**/screenshots
+**/node_modules
+*.sh
+
+yarn.lock
+
+cypress.env.json
